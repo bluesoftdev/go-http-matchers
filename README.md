@@ -1,3 +1,5 @@
+# This Project is Deprecated, you should use [danapsimer/go-http-matchers](https://github.com/danapsimer/go-http-matchers) instead.
+
 # Go Http Matchers
 > This project defines a set of functions that return predicates and extractors for making decisions about http request.
 
